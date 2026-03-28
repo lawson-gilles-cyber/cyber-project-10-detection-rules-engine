@@ -1,0 +1,5 @@
+RULES:
+
+1. Brute Force → 3 failed logins
+2. Suspicious Login → success after failures
+3. Sensitive File Access → alert on access
